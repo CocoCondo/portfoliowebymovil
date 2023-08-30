@@ -1,0 +1,53 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "titulo": "Tarea 1: GHIJK",
+      "texto": "Lorem",
+      "foto": "Foto",
+      "columna": "agregar1"
+    },
+    {
+      "id": 6,
+      "titulo": "Titulo de prueba",
+      "texto": "Ejemplo de tarea",
+      "foto": "Foto4",
+      "columna": "agregar1"
+    },
+    {
+      "id": 7,
+      "titulo": "",
+      "texto": "",
+      "foto": "",
+      "columna": "agregar2"
+    },
+    {
+      "id": 8,
+      "titulo": "",
+      "texto": "",
+      "foto": "",
+      "columna": "agregar2"
+    },
+    {
+      "id": 9,
+      "titulo": "",
+      "texto": "",
+      "foto": "",
+      "columna": "agregar2"
+    },
+    {
+      "id": 10,
+      "titulo": "",
+      "texto": "",
+      "foto": "./foto2.jpg",
+      "columna": "agregar2"
+    },
+    {
+      "id": 11,
+      "titulo": "",
+      "texto": "",
+      "foto": "./foto1.jpg",
+      "columna": "agregar2"
+    }
+  ]
+}

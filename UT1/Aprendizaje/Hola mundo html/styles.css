@@ -1,0 +1,76 @@
+.cartel {
+    background-color: bisque;
+    text-align: center;
+    font-style: italic;
+    font-size: large;
+    box-shadow: 1px 1px 5px black;
+    width:90%;
+}
+
+.ventana {
+    background-color: rgb(42, 42, 42);
+    align-self: center;
+    border: 2px solid red;
+    width: 80%;
+    height: 80%;
+    padding: 2%;
+    box-shadow: 10px 10px 5px black;
+}
+
+.ventanita {
+    width: 90%;
+    background-color: grey;
+    height: 90%;
+    box-shadow: 10px 10px 5px black;
+    padding: 2%;
+}
+
+body {
+    background-color: rgb(37, 34, 34);
+    padding: 2%;
+}
+
+h1 {
+    color: blue;
+    text-shadow: 5px solid black;
+}
+
+p {
+    color: blue;
+}
+
+a[href="http://www.google.com/"] {
+    color: red;
+}
+
+body article p {
+    background-color: aliceblue;
+    color: blue;
+    border: 2px white;
+}
+
+div .cartel {
+    text-shadow: 1px 1px 1px black;
+}
+
+div a:hover {
+    background-color: red;
+}
+
+.ventanita>div {
+    box-shadow: 3px 3px 3px black;
+}
+
+a::after {
+    src: "./2a9n.gif";
+}
+
+.divGallo{
+    display: flex;
+}
+
+@media (width < 600px){
+    .divGallo{
+        display:block;
+    }
+}

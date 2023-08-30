@@ -1,0 +1,56 @@
+<html>
+
+<head>
+    <meta name="viewport" content="with=device-with, initial-scale=1" />
+    <style>
+
+    </style>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+
+<body>
+    <div class="ventana" id="idVentana">
+        <div class="ventanita">
+            <img id="pinguino2" src="https://media.tenor.com/lCpC-hh9GLEAAAAi/clubpenguin-penguin.gif"
+                alt="pinguino bailando" width="20%" style="display: none;">
+            <img id="pinguino1" src="https://media.tenor.com/lCpC-hh9GLEAAAAi/clubpenguin-penguin.gif"
+                alt="pinguino bailando" width="20%" style="display: none;">
+
+            <div class="divGallo">
+                <img src="e52533822a28b4ca84ac08d6e049917c.jpg" alt="pollo" width="200px" height="200px"
+                    style="border: 2px solid red;" />
+                <div class="cartel" id="idCartelito">
+                    <p id="coso">Los pollos hermanos</p>
+                    <a href="http://www.google.com/">
+                        <img src="https://www.google.com.uy/images/branding/googlelogo/2x/googlelogo_light_color_92x30dp.png"
+                            alt="Google" />
+                    </a>
+                    <article>
+                        <button onclick="setInterval(myFunction, 500)">¡Psicodelicia!</button>
+                        <script>
+                            function myFunction() {
+                                var red = Math.floor(Math.random() * 255);
+                                var green = Math.floor(Math.random() * 255);
+                                var blue = Math.floor(Math.random() * 255);
+
+                                var color = "rgb(" + red + "," + green + "," + blue + ")";
+                                var color2 = "rgb(" + green + "," + blue + "," + red + ")";
+
+                                document.getElementById("coso").style.color = color;
+                                document.getElementById("idCartelito").style.backgroundColor = color2;
+                                document.getElementById("idVentana").style.backgroundColor = color;
+
+                                document.getElementById("pinguino1").style.display = "inline";
+                                document.getElementById("pinguino2").style.display = "inline";
+                            }
+                        </script>
+                        <p>hola</p>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</body>
+
+</html>

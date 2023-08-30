@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+  }
+
+.toDoBackground {
+    background-color:  rgb(7, 153, 182);
+}
+
+.workInProgress{
+    background-color: rgb(74,110,176);
+}
+
+.firstLayer {
+    background-color: rgb(119, 131, 135);
+}
+
+.cardContainer{
+    background-color: rgb(138, 173, 157);
+}
+
+.cardStyle {
+    color: whitesmoke;
+}
+
+.button{
+    background-color: darkkhaki;
+    font-weight: bold;
+}
+
+.cardStyle .button:hover {
+    background-color: red;
+}
+
+.toDoBackground > .cardStyle{
+    background-color: rgb(7,130,183);
+}
+
+.workInProgress > .cardStyle{
+    background-color: rgb(74,110,130);
+}
