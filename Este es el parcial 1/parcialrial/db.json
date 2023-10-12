@@ -1,0 +1,142 @@
+{
+  "jugadores": [
+    {
+      "id": 1,
+      "nombre": "Leito Coco",
+      "posicion": "Delantero",
+      "foto": "./assets/fotos/jose.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Coti Dibueno",
+      "posicion": "Mediocampo",
+      "foto": "./assets/fotos/jose1.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Javier Odera",
+      "posicion": "Lateral Izquierdo",
+      "foto": "./assets/fotos/jose2.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Pablo Fernandez",
+      "posicion": "Lateral Derecho",
+      "foto": "./assets/fotos/jose3.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Leito Fernandez",
+      "posicion": "Delantero",
+      "foto": "./assets/fotos/jose4.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Coti Fernandez",
+      "posicion": "Mediocampo",
+      "foto": "./assets/fotos/jose5.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Javier Conde",
+      "posicion": "Lateral Izquierdo",
+      "foto": "./assets/fotos/jose6.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Pablo Conde",
+      "posicion": "Lateral Derecho",
+      "foto": "./assets/fotos/jose7.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Feliciano Conde",
+      "posicion": "Delantero",
+      "foto": "./assets/fotos/jose8.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Javier Dibueno",
+      "posicion": "Mediocampo",
+      "foto": "./assets/fotos/jose9.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "Fernando Odera",
+      "posicion": "Lateral Izquierdo",
+      "foto": "./assets/fotos/jose10.jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Victoria Fernandez",
+      "posicion": "Lateral Derecho",
+      "foto": "./assets/fotos/jose11.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Pepe Fernandez",
+      "posicion": "Delantero",
+      "foto": "./assets/fotos/jose12.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Ansaldo Fernandez",
+      "posicion": "Mediocampo",
+      "foto": "./assets/fotos/jose13.jpg"
+    },
+    {
+      "id": 15,
+      "nombre": "Federico Conde",
+      "posicion": "Lateral Izquierdo",
+      "foto": "./assets/fotos/jose14.jpg"
+    },
+    {
+      "id": 16,
+      "nombre": "Atanasio Conde",
+      "posicion": "Lateral Derecho",
+      "foto": "./assets/fotos/jose15.jpg"
+    },
+    {
+      "id": 17,
+      "nombre": "Javier Conde",
+      "posicion": "Lateral Izquierdo",
+      "foto": "./assets/fotos/jose16.jpg"
+    },
+    {
+      "id": 18,
+      "nombre": "Veronica Conde",
+      "posicion": "Lateral Derecho",
+      "foto": "./assets/fotos/jose17.jpg"
+    },
+    {
+      "id": 19,
+      "nombre": "Esteban Conde",
+      "posicion": "Delantero",
+      "foto": "./assets/fotos/jose18.jpg"
+    },
+    {
+      "id": 20,
+      "nombre": "Gerasio Dibueno",
+      "posicion": "Mediocampo",
+      "foto": "./assets/fotos/jose19.jpg"
+    },
+    {
+      "id": 21,
+      "nombre": "Pinguinasio Odera",
+      "posicion": "Lateral Izquierdo",
+      "foto": "./assets/fotos/jose20.jpg"
+    },
+    {
+      "id": 22,
+      "nombre": "Pinwilly Fernandez",
+      "posicion": "Lateral Derecho",
+      "foto": "./assets/fotos/jose21.jpg"
+    },
+    {
+      "id": 23,
+      "nombre": "Killian Mbappe",
+      "posicion": "Delantero",
+      "foto": "./assets/fotos/jose22.jpg"
+    }
+  ]
+}

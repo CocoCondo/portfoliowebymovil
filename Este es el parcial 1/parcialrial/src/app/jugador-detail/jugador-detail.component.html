@@ -1,0 +1,21 @@
+<div class="container" *ngIf="jugador">
+    <div class="row">
+        <div class="col-md-6 offset-md-3 mt-5">
+            <div class="card">
+                <img src={{jugador.foto}} class="card-img-top" alt="Imagen del Producto">
+                <div class="card-body">
+                    <h5 class="card-title">{{jugador.nombre | uppercase}}</h5>
+                    <p class="card-text">ID: {{jugador.id}}</p>
+                    <p class="card-text">Posicion: {{jugador.posicion}}</p>
+                    <div>
+                        <label for="jugador-nombre">Modificar nombre de jugador: </label>
+                        <input id="jugador-nombre" [(ngModel)]="jugador.nombre" placeholder="nombre">
+                    </div>
+                    <button type="button" (click)="goBack()">Volver a la Lista</button>
+                    <button type="button" (click)="save()">Actualizar JUGADOR</button>
+                    <button type="button" (click)="delete(jugador)">BORRAR JUGADOR</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

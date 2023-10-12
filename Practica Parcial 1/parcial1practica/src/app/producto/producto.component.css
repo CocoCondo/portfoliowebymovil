@@ -1,0 +1,43 @@
+/* Estilos para la tarjeta */
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f0f0f0; /* Color de fondo pastel */
+  }
+  
+  /* Estilos para la imagen de la tarjeta */
+  .card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+  }
+  
+  /* Estilos para el botón */
+  .btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Ajustes de diseño para la fila y las columnas */
+  .row-cols-1 {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -8px; /* Ajustar el margen negativo para contrarrestar el relleno de las columnas */
+  }
+  
+  .col {
+    flex: 0 0 100%; /* Las columnas ocupan el 100% del ancho en pantallas pequeñas */
+    max-width: 100%; /* Las columnas no superan el 100% del ancho en pantallas más grandes */
+    padding: 8px; /* Añadir un relleno entre las columnas */
+  }
+  
+  @media (min-width: 768px) {
+    .row-cols-md-2 .col {
+      flex: 0 0 50%; /* Las columnas ocupan el 50% del ancho en pantallas medianas y más grandes */
+      max-width: 50%; /* Las columnas no superan el 50% del ancho en pantallas más grandes */
+    }
+  }
+  

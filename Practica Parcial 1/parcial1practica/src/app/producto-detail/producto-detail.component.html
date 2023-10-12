@@ -1,0 +1,16 @@
+<div class="container" *ngIf="producto">
+    <div class="row">
+      <div class="col-md-6 offset-md-3 mt-5">
+        <div class="card">
+          <img src={{producto.imagen}} class="card-img-top" alt="Imagen del Producto">
+          <div class="card-body">
+            <h5 class="card-title">{{producto.nombre}}</h5>
+            <p class="card-text">ID: {{producto.id}}</p>
+            <p class="card-text">Precio: ${{producto.precio}}</p>
+            <p class="card-text">Stock disponible: {{producto.stock}} unidades</p>
+            <a href="#" (click)="goBack()" class="btn btn-primary">Volver a la Lista</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

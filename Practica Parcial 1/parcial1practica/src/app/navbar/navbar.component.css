@@ -1,0 +1,21 @@
+/* Estilos generales para la barra de navegación */
+.navbar {
+    background-color: #6c75ba; /* Color de fondo pastel */
+    padding: 1rem; /* Espaciado interno */
+    border-bottom: 1px solid #ccc; /* Borde inferior ligero */
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem; /* Tamaño de fuente del texto del logotipo */
+    font-weight: bold; /* Peso de fuente del texto del logotipo */
+    color: #333; /* Color del texto del logotipo */
+    text-decoration: none; /* Eliminar subrayado del enlace */
+  }
+  
+  /* Estilos para el contenedor fluido de la barra de navegación */
+  .container-fluid {
+    margin-right: auto; /* Margen derecho automático para centrar en contenedor fluido */
+    margin-left: auto; /* Margen izquierdo automático para centrar en contenedor fluido */
+    max-width: 1200px; /* Ancho máximo del contenedor */
+  }
+  

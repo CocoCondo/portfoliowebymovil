@@ -1,0 +1,18 @@
+<div class="row row-cols-1 row-cols-md-2 g-4">
+  <div *ngFor="let producto of productos" class="col">
+    <div class="card">
+      <div class="row g-0">
+        <div class="col-md-4">
+          <img src={{producto.imagen}} alt="Ilustración de {{producto.nombre}}" class="img-fluid rounded-start">
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h5 class="card-title">{{producto.nombre}}</h5>
+            <p class="card-text">Precio: ${{producto.precio}}</p>
+            <p class="card-text"><small class="text-body-secondary">Stock disponible: {{producto.stock}}</small></p>
+          </div>
+          <a routerLink="/detalles/{{producto.id}}" class="btn btn-primary">Ver detalles</a>
+        </div>
+      </div>
+    </div>
+  </div>

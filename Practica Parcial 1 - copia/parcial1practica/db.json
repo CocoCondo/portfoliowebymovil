@@ -1,0 +1,214 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Patatas fritas",
+            "precio": 50,
+            "stock": 20,
+            "imagen": "https://cocina-casera.com/wp-content/uploads/2023/01/patatas-fritas-crujientes-francesa-1.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Refresco",
+            "precio": 120,
+            "stock": 10,
+            "imagen": "https://f.fcdn.app/imgs/e4a62c/www.distribuidoradelacosta.com.uy/dicouy/18f7/original/catalogo/1005241005241/600x780/pomelo-paso-de-los-toros-2-5-l-pomelo-paso-de-los-toros-2-5-l.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Galletas",
+            "precio": 80,
+            "stock": 15,
+            "imagen": "https://f.fcdn.app/imgs/2098b6/www.elclon.com.uy/clonuy/cf6c/original/catalogo/30485-1/1920-1200/galletas-pepas-de-la-nonna-350g-galletas-pepas-de-la-nonna-350g.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Cereal",
+            "precio": 200,
+            "stock": 8,
+            "imagen": "https://pics.walgreens.com/prodimg/615127/450.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Leche",
+            "precio": 150,
+            "stock": 25,
+            "imagen": "https://www.conaprole.uy/wp-content/uploads/2019/09/leche-fresca.png"
+        },
+        {
+            "id": 6,
+            "nombre": "Pizza congelada",
+            "precio": 300,
+            "stock": 12,
+            "imagen": "url_imagen_producto_6"
+        },
+        {
+            "id": 7,
+            "nombre": "Manzanas",
+            "precio": 70,
+            "stock": 18,
+            "imagen": "url_imagen_producto_7"
+        },
+        {
+            "id": 8,
+            "nombre": "Jugo de naranja",
+            "precio": 90,
+            "stock": 14,
+            "imagen": "url_imagen_producto_8"
+        },
+        {
+            "id": 9,
+            "nombre": "Hamburguesas",
+            "precio": 250,
+            "stock": 7,
+            "imagen": "url_imagen_producto_9"
+        },
+        {
+            "id": 10,
+            "nombre": "Pasta",
+            "precio": 120,
+            "stock": 20,
+            "imagen": "url_imagen_producto_10"
+        },
+        {
+            "id": 11,
+            "nombre": "Yogur",
+            "precio": 80,
+            "stock": 22,
+            "imagen": "url_imagen_producto_11"
+        },
+        {
+            "id": 12,
+            "nombre": "Café",
+            "precio": 180,
+            "stock": 9,
+            "imagen": "url_imagen_producto_12"
+        },
+        {
+            "id": 13,
+            "nombre": "Papel higiénico",
+            "precio": 40,
+            "stock": 30,
+            "imagen": "url_imagen_producto_13"
+        },
+        {
+            "id": 14,
+            "nombre": "Queso",
+            "precio": 120,
+            "stock": 16,
+            "imagen": "url_imagen_producto_14"
+        },
+        {
+            "id": 15,
+            "nombre": "Pescado congelado",
+            "precio": 200,
+            "stock": 10,
+            "imagen": "url_imagen_producto_15"
+        },
+        {
+            "id": 16,
+            "nombre": "Aceite de oliva",
+            "precio": 150,
+            "stock": 12,
+            "imagen": "url_imagen_producto_16"
+        },
+        {
+            "id": 17,
+            "nombre": "Cepillo de dientes",
+            "precio": 5,
+            "stock": 50,
+            "imagen": "url_imagen_producto_17"
+        },
+        {
+            "id": 18,
+            "nombre": "Tomates enlatados",
+            "precio": 70,
+            "stock": 15,
+            "imagen": "url_imagen_producto_18"
+        },
+        {
+            "id": 19,
+            "nombre": "Pañuelos de papel",
+            "precio": 30,
+            "stock": 40,
+            "imagen": "url_imagen_producto_19"
+        },
+        {
+            "id": 20,
+            "nombre": "Pasta de dientes",
+            "precio": 80,
+            "stock": 18,
+            "imagen": "url_imagen_producto_20"
+        },
+        {
+            "id": 21,
+            "nombre": "Cerveza",
+            "precio": 100,
+            "stock": 25,
+            "imagen": "url_imagen_producto_21"
+        },
+        {
+            "id": 22,
+            "nombre": "Perfume",
+            "precio": 200,
+            "stock": 8,
+            "imagen": "url_imagen_producto_22"
+        },
+        {
+            "id": 23,
+            "nombre": "Papel de aluminio",
+            "precio": 40,
+            "stock": 30,
+            "imagen": "url_imagen_producto_23"
+        },
+        {
+            "id": 24,
+            "nombre": "Zanahorias",
+            "precio": 60,
+            "stock": 20,
+            "imagen": "url_imagen_producto_24"
+        },
+        {
+            "id": 25,
+            "nombre": "Gel de ducha",
+            "precio": 70,
+            "stock": 15,
+            "imagen": "url_imagen_producto_25"
+        },
+        {
+            "id": 26,
+            "nombre": "Sopa enlatada",
+            "precio": 50,
+            "stock": 22,
+            "imagen": "url_imagen_producto_26"
+        },
+        {
+            "id": 27,
+            "nombre": "Pimientos",
+            "precio": 90,
+            "stock": 12,
+            "imagen": "url_imagen_producto_27"
+        },
+        {
+            "id": 28,
+            "nombre": "Toallas de papel",
+            "precio": 35,
+            "stock": 35,
+            "imagen": "url_imagen_producto_28"
+        },
+        {
+            "id": 29,
+            "nombre": "Huevos",
+            "precio": 120,
+            "stock": 18,
+            "imagen": "url_imagen_producto_29"
+        },
+        {
+            "id": 30,
+            "nombre": "Papel de cocina",
+            "precio": 25,
+            "stock": 40,
+            "imagen": "url_imagen_producto_30"
+        }
+    ]
+}
